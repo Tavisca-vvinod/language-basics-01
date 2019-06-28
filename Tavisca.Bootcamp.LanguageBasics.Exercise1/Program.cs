@@ -36,7 +36,7 @@ namespace Tavisca.Bootcamp.LanguageBasics.Exercise1
                 {
                     if (GivenValue[i].Equals('?'))
                     {
-                        IndexOfQuestionMark = i;
+                        IndexOfQuestionMark = i; 
                         continue;
                     }
                     if (GivenValue[i].Equals( CalculatedValue[i]))
